@@ -2,9 +2,5 @@
     {
         "merged": "/home/user/projects/LinkedInSDKSample/linkedin-sdk/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_launcher.png",
         "source": "/home/user/projects/LinkedInSDKSample/linkedin-sdk/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/user/projects/giantivy_android/linkedin-sdk/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/home/user/projects/giantivy_android/linkedin-sdk/src/main/res/drawable-xxhdpi/ic_launcher.png"
     }
 ]
