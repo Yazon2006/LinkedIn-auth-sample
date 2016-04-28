@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LinkedInSDKSample</string>
+    <string name="login_via_linkedin">Login via LinkedIn</string>
+</resources>

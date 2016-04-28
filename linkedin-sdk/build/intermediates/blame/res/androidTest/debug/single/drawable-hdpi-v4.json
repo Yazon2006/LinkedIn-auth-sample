@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/projects/LinkedInSDKSample/linkedin-sdk/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/user/projects/LinkedInSDKSample/linkedin-sdk/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/projects/giantivy_android/linkedin-sdk/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/user/projects/giantivy_android/linkedin-sdk/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]
