@@ -1,20 +1,24 @@
-# LinkedIn-auth-sample
-This is a sample app of linkedin auth
+# LinkedIn authorization sample app
+This is a sample app of LinkedIn authorization
 
 Now you can add LinkedIn SDK using gradle. In project level gradle add jcenter().
 
+```
 allprojects {
     repositories {
         jcenter()
     }
+```
 
 In app level gradle add this:
 
+```
 compile 'yazon-maven:linkedin-sdk:1.1.4'
+```
 
 Here is an example of how to use it:
 
-
+```
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,3 +59,4 @@ Here is an example of how to use it:
         LISessionManager.getInstance(MainActivity.this.getApplicationContext()).onActivityResult(MainActivity.this, requestCode, resultCode, data);
         super.onActivityResult(requestCode, resultCode, data);
     }
+```
